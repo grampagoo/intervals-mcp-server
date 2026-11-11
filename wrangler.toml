@@ -10,7 +10,8 @@ compatibility_flags = ["nodejs_compat"]
 # `npx wrangler kv namespace create OAUTH_KV` and paste its id here.
 [[kv_namespaces]]
 binding = "OAUTH_KV"
-id = "c5bfc307dae84bb69fd3a8a5cfabe442"
+id = "8552c035a3534f17adbaaf07eab489cf"
+
 
 # Secrets, set with `npx wrangler secret put <NAME>` (or .dev.vars locally):
 #   INVITE_CODE  the one code everyone enters to sign in
